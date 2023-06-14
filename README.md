@@ -1,6 +1,6 @@
 # Capstone-Design-Separated-Bundle-Adjustment
 
-Dataset 링크: https://drive.google.com/drive/u/1/my-drive
+Dataset 링크: [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/file/d/1NeSVKOAtI90sRAup4g_U-zKHiVne64-t/view?usp=sharing)
 
 ## 요약
 최근 디지털 트윈,자율주행,로봇의 발달로 산업에서 3D Reconstruction의 쓰임이 다양해지고 보행자 등을 3D 모델로 구축하여, 차량이 적절한 판단을 내릴 수 있도록 도와준다. 로봇 산업에서는 로봇의 환경 인식과 제어에 3D 재구성 기술이 매우 중요하다. 로봇이 주변 환경을 정확하게 파악하여 작업을 수행할 수 있도록 3D 모델을 이용하면 보다 정확하고 효과적인 제어가 가능하다. 3D Reconstruction이 완벽하게 되기 위해서는 이론적으로 모든 점과 카메라의 위치 및 내부 매개 변수를 정확하게 추정해야 하지만 센서의 한계나 노이즈에 의해 추정 오차가 발생할 경우 3D 모델의 정확도가 저하된다. 따라서 Bundle Adjustment 같은 최적화 기술을 이용하여 추정 오차를 최소화하고, 3D Reconstruction  품질을 향상시킬 수 있다.
